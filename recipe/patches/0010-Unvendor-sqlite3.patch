@@ -1,4 +1,4 @@
-From 04c5f33620723af188539ac03c3cd464b9297edf Mon Sep 17 00:00:00 2001
+From 6dc46aee25b2d35be539db71a3395ecdc5797a9c Mon Sep 17 00:00:00 2001
 From: Nehal J Wani <nehaljw.kkd1@gmail.com>
 Date: Tue, 5 Oct 2021 12:42:06 -0700
 Subject: [PATCH 10/24] Unvendor sqlite3
@@ -79,5 +79,5 @@ index c502d51833..c1ff0c9a08 100644
    <ItemDefinitionGroup>
      <ClCompile>
 -- 
-2.30.2
+2.39.0
 
